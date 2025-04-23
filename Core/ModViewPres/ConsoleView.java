@@ -1,4 +1,4 @@
-package ToyStoreJava.Core.ModViewPres;
+package ToyShopJava.Core.ModViewPres;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
