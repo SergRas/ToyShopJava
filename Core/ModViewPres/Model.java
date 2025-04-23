@@ -1,7 +1,7 @@
-package ToyStoreJava.Core.ModViewPres;
+package ToyShopJava.Core.ModViewPres;
 
-import ToyStoreJava.Core.Infrastructure.PrizeToys;
-import ToyStoreJava.Core.Infrastructure.ToyBox;
+import ToyShopJava.Core.Structure.PrizeToys;
+import ToyShopJava.Core.Structure.ToyBox;
 
 public class Model {
     private ToyBox currentToyBox;
