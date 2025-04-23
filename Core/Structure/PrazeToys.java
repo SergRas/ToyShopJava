@@ -1,9 +1,9 @@
-package ToyStoreJava.Core.Infrastructure;
+package ToyShopJava.Core.Structure;
 
 import java.util.Queue;
 import java.util.LinkedList;
 
-import ToyStoreJava.Core.Models.Toy;
+import ToyShopJava.Core.Models.Toy;
 
 public class PrizeToys {
 
