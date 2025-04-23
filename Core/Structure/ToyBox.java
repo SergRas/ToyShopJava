@@ -1,10 +1,10 @@
-package ToyStoreJava.Core.Infrastructure;
+package ToyShopJava.Core.Structure;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import ToyStoreJava.Core.Models.Toy;
+import ToyShopJava.Core.Models.Toy;
 
 public class ToyBox {
 
